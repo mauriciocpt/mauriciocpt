@@ -1,1 +1,1 @@
-The purpose of this project is to create a guide to data patterns in Salesforce projects.
+# O proposito desse guia é sugerir padrões de dados para projetos Salesforce.
