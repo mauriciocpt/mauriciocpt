@@ -149,5 +149,6 @@ Para facilitar o processo de deployment, (seleção dos artefatos) deverá ser u
 | Página Lightning           |  **LP** + NomeDoObjeto + Descrição               |LPCaseClientLayout       |LP - Lightning Page   |
 | Process Builder            |  **PB** + NomeDoObjeto + Descrição               |PBCaseAutomation         |PB - Process Builder  |
 | Flow                       |  **flow** + NomeDoObjeto + Descrição             |flowContactBeforeInsert  |                      |
+| Conjunto de permissão      |  **PS** + Descrição                              |PSContractManager        |PS - Permission Set   |
 
 [boaspraticas]: https://help.salesforce.com/s/articleView?id=sf.process_considerations_design_bestpractices.htm&type=5
